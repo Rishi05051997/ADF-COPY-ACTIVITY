@@ -1,0 +1,9 @@
+{
+	"name": "adfdevusafinance",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "b6dd16a6-de26-4498-b56f-2bc03341246b",
+		"tenantId": "1468ad8d-e38b-4379-8bd1-2381d11aaffc"
+	}
+}

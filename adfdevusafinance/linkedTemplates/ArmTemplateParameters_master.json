@@ -1,0 +1,24 @@
+{
+	"$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+	"contentVersion": "1.0.0.0",
+	"parameters": {
+		"factoryName": {
+			"value": "adfdevusafinance"
+		},
+		"LS_CLIENT_BLOB_STORAGE_connectionString": {
+			"value": ""
+		},
+		"LS_DIST_accountKey": {
+			"value": ""
+		},
+		"LS_DIST_properties_typeProperties_url": {
+			"value": "https://destinationadlsstorage05.dfs.core.windows.net/"
+		},
+		"containerUri": {
+			"value": ""
+		},
+		"containerSasToken": {
+			"value": ""
+		}
+	}
+}
